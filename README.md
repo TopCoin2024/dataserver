@@ -1,4 +1,10 @@
 # dataserver
+--------------------------------------------------------------------------------------
+new data (2026.03.05)
+
+https://gofile.io/d/6gLGs1
+
+https://drive.google.com/drive/folders/1pESEIZcn3igHfT9CyGBYUlqc0FHSGGpw (updated)
 
 --------------------------------------------------------------------------------------
 new data (2026.03.03)
