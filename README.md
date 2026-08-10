@@ -1,6 +1,9 @@
 # dataserver
 --------------------------------------------------------------------------------------
-new data (2026.07.30-)
+new data (2026.08.10~) !!!!!!!!!!!!!!
+https://drive.google.com/drive/folders/1Q3czfn48_SjZvIo2x8x2y8NH9D2hbPsJ?usp=sharing
+
+old data (2026.07.30-)
 
 https://drive.google.com/drive/folders/1ksBZqoufvbB3CLwnBcGKePRtd8giJYb-?usp=sharing
 (6files - 3KB, 139.5MB, 572.5MB, 4KB, 629.6MB, 1.55GB)
